@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.nav-list {
+  width: 960px;
+  margin: 0 auto;
+  padding: 50px 0px;
+}
+
+.nav-list-item {
+  background-color: #dcdcdc;
+  padding: 20px 0px 20px 20px;
+  list-style: none;
+}
+
+.nav-list-item-2 {
+  background-color: white;
+  padding: 20px 0px 20px 20px;
+  list-style: none;
+}
+
+.main-visual {
+  width: 960px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main-visual-content-1 {
+  width: 30%;
+  height: 200px;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: orange;
+}
+
+.main-visual-content-2 {
+  width: 30%;
+  height: 200px;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: yellow;
+}
+
+.main-visual-content-3 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.main-visual-content-4 {
+  width: 30%;
+  height: 200px;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: yellow;
+}
+
+.main-visual-content-5 {
+  width: 30%;
+  height: 200px;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: orange;
+}
+
+.main-visual-content-6 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.main-visual-content-7 {
+  width: 30%;
+  height: 200px;
+  margin-right: 5%;
+  background-color: yellow;
+}
+
+.main-visual-content-8 {
+  width: 30%;
+  height: 200px;
+  margin-right: 5%;
+  background-color: yellow;
+}
+
+.main-visual-content-9 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
